@@ -1,0 +1,17 @@
+.next/
+.next-hardening/
+.next-e2e/
+.next-preview/
+.next-release/
+.next-local/
+.vercel/
+.freebuff/
+node_modules/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env*
+!.env.example
+
+.vercel
+.env*

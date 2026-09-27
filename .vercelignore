@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.next-hardening/
+.next-release/
+.next-local/
+.vercel/
+test-results/
+playwright-report/
+.env*
+!.env.example
